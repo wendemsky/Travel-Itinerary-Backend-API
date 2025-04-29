@@ -28,8 +28,8 @@ This project is a backend system for managing travel itineraries, built as part 
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory>
+    git clone https://github.com/wendemsky/Travel-Itinerary-Backend-API
+    cd Travel-Itinerary-Backend-API
     ```
 
 2.  **Create a Virtual Environment (Recommended):**
